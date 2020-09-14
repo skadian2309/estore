@@ -8,6 +8,6 @@ entries:
     digest: 1cb9ca9e9b2cc278c72b59af3de16376ef88a998774c23e8570dd024048898bb
     name: estore
     urls:
-    - estore-0.1.0.tgz
+    - https://raw.githubusercontent.com/skadian2309/estore/master/stable/estore-0.1.0.tgz
     version: 0.1.0
 generated: "2020-09-14T09:35:22.0833965+05:30"
